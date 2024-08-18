@@ -59,3 +59,18 @@ This repository contains the **"Classical-model-Dashboard"** project, which show
 1. Clone the repository.
    ```bash
    git clone https://github.com/shaun-mia/Classical-model-Dashboard.git
+   ```
+2. Open the Power BI (.pbix) file to explore the dashboard on desktop or mobile view.
+3. Review the Python scripts and Excel files for data processing and analysis.
+
+## Contribution 🤝
+Feel free to fork this repository, make improvements, and submit a pull request. Contributions that enhance functionality or add new features are welcome.
+
+## License 📜
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact 📧
+For any questions or feedback, feel free to contact me:
+
+- **Email**: shaunmia.cse@gmail.com
+- **LinkedIn**: [Shaun Mia](https://www.linkedin.com/in/shaun-mia/)
