@@ -50,7 +50,7 @@ This repository contains the **"Classical-model-Dashboard"** project, which show
 ## Visual Representations 🖼️
 
 ### Desktop Dashboard
-![Dashboard](https://github.com/shaun-mia/Classical-model-Dashboard/blob/main/ppt%20img/Dashboard.png)
+![Dashboard](https://github.com/shaun-mia/Classical-model-Dashboard/blob/main/ppt%20img/Classic%20Model%20BI%20Dashboad.png)
 
 ### Mobile Dashboard
 ![Mobile View](https://github.com/shaun-mia/Classical-model-Dashboard/blob/main/ppt%20img/Mobile%20View.png)
